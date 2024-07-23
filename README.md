@@ -43,6 +43,8 @@ If you execute Bitwise AND IP address and Subnet Mask, then you can get network 
 
 Mask `255.255.255.224 (1111 1111.1111 1111.1111 1111.1110 0000)` means that, first 27 digits of addresses in this subnet should be identical. Details in https://www.kollmorgen.com/en-us/developer-network/what-subnet-mask
 
+`71.251.123.0/24` /24 is CIDR Notation 
+
 ## Question about the examples
 Level 2 : why A1 cannot have `192.168.77.192`? -> From Bitwise AND, network address is 192.168.77.192. The broadcast address is 192.168.77.223. 
 
