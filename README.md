@@ -45,6 +45,8 @@ Mask `255.255.255.224 (1111 1111.1111 1111.1111 1111.1110 0000)` means that, fir
 
 `71.251.123.0/24` /24 is CIDR Notation 
 
+## Routing
+`134.38.10.0/26` => `134.38.10.61` means that `
 ## Question about the examples
 Level 2 : why A1 cannot have `192.168.77.192`? -> From Bitwise AND, network address is 192.168.77.192. The broadcast address is 192.168.77.223. 
 
