@@ -28,6 +28,8 @@ For example, when IP address is `102.4.31.57` and Subnet Mask is `255.255.255.0`
 
 If you execute Bitwise AND IP address and Subnet Mask, then you can get network address
 ## Some Special Addresses
+
+`0.0.0.0/8` : Represents the default route or an unspecified address, not assignable to hosts.
 `127.0.0.0`~`127.255.255.255` indicates the device itself, so it cannot be used in local network.
 
 `192.168.0.0`~`192.168.255.255` : private IP address and it is not used on the Internet.
